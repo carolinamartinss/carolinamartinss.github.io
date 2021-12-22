@@ -1,0 +1,36 @@
+#sentenceTarget {
+  text-align: center;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 15px 30px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+/* img { */
+  /* a */
+/* } */
+
+.centered-content {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+}

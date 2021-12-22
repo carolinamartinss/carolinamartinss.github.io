@@ -1,0 +1,43 @@
+.content {
+  margin: 70px;
+  margin-top: auto;
+  padding: 50px;
+  background-color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 30px;
+}
+/*
+Definir cores:
+Hexadecimal #ffffff
+Hexadecimal Abreviado: #fff
+RGB: rgb(255, 255, 255)
+RGBA: rgba(255, 255, 255, 0.6)
+*/
+
+#mainPage .content h1 {
+  color: #aa0c90;
+}
+
+#travelPage .content h1 {
+  color: #EE2E2E;
+}
+
+#moviesPage .content h1 {
+  color: #89a5b1;
+}
+
+#musicPage .content h1 {
+  color: #9d6934;
+}
+
+#aboutPage .content h1 {
+  color: #e9732f;
+}
+
+#mainPage .content p {
+  color: #458a92;
+}
+
+.content p {
+  font-size: 20px;
+  margin: 5%;
+}

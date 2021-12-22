@@ -1,0 +1,39 @@
+#mainPage {
+  background-image: linear-gradient(to right, #fbcabb, #f9b0c3, #e3abce, #ceb6d9, #a2c8ec);
+}
+
+#travelPage {
+    background-image: linear-gradient(to right, #ece7b6, #ffd0dc, #C4B0DD, #58D1DB);
+}
+
+#moviesPage {
+  background-image: linear-gradient(to right, #a7a0b1, #deb38b, #e1ca7c, #d2c8be);
+}
+
+#musicPage {
+  background-image: linear-gradient(to right, #c59046, #eac16c, #f7edbc, #acb644);
+}
+
+#interestsPage {
+  background-image: linear-gradient(to right, #dedad9, #d1d2a4, #c0b5bf, #95a2bb, #44689d);
+}
+
+#aboutPage {
+  background-image: linear-gradient(to right, #63c3be, #c060b3, #fae34d, #eea5d1);
+}
+
+#next1Page {
+  background-image: linear-gradient(to right, #eb8d97, #f3be6e, #fae4ae, #c0e8e2, #397462, #8e81a9);
+}
+
+#next2Page {
+  background-image: linear-gradient(to right, #e5343f, #e9756d, #e8bcae, #90bcd1, #29415b);
+}
+
+#next3Page {
+  background-image: linear-gradient(to right, #b88f8d, #95426f, #293e56, #5378a1, #669fa1);
+}
+
+#page2 {
+    background-image: linear-gradient(to right, #30196d, #aa0c90, #458a92, #f1a432, #f6e06a, #e5051b);
+}
